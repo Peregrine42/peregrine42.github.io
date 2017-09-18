@@ -1,7 +1,14 @@
 a {
-  color: red;
+  color: white;
+  text-decoration: none;
 }
 
 a:hover {
-  color: blue;
+  color: grey;
+  text-decoration: underline;
+}
+
+nav {
+  margin: 0px;
+  background-color: black;
 }
